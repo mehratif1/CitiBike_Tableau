@@ -11,5 +11,21 @@ The primary goal of this analysis is to establish a comprehensive reporting syst
 (2) The peak hours for the ridership are noticed to be 7 to 8am in the morning and 5 to 6pm in the evening as these are the work/colleges start and ending times so the rides are going busy that time.<br>
 (3) The rides per day line chart displays lowest amount of rides used on the 25th of December 2023, with it being a public holiday made the bikerides less busy.
 
+
 ![User Analysis](/Screenshots/Screenshot%202024-01-29%20102136.png)
+
+# Interesting Data Discoveries from the User Analysis Dashboard:
+
+(1) Number of annual members are considerably higher than the Casual short term members ,as a result of which the average trip duration for annual members is higher than casual members. Since the annual members pay the annual fee so they use the rides more often.
+
 ![Popular Stations](/Screenshots/Screenshot%202024-01-29%20102356.png)
+
+# Interesting Data Discoveries from the Popular Station Dashboard:
+
+(1) It is obseved that Hoboken terminal and Grove St Path remain two of the most popular and active stations consistent over time as both the starting and ending stations.
+
+# Recommendations:
+
+(1)Seasonal Marketing Strategies:
+
+Recognizing the significant decline in ridership from October to December, implementing targeted marketing strategies during colder months like Promotions, discounts, or incentives could encourage ridership during the winter season.
