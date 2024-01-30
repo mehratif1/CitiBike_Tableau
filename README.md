@@ -29,3 +29,15 @@ The primary goal of this analysis is to establish a comprehensive reporting syst
 (1)Seasonal Marketing Strategies:
 
 Recognizing the significant decline in ridership from October to December, implementing targeted marketing strategies during colder months like Promotions, discounts, or incentives could encourage ridership during the winter season.
+
+(2) Optimize Bike Availability during Peak Hours:
+
+Given the observed peak hours of 7 to 8 am and 5 to 6 pm, optimize bike availability at stations during these times. Ensure that there are enough bikes for commuters, and consider introducing temporary stations near workplaces or educational institutions.
+
+(3) Holiday-Specific Promotions:
+
+Address the dip in rides on public holidays by implementing holiday-specific promotions or events. Special discounts or ride incentives on holidays could attract more users during these periods.
+
+(4)Membership Promotions:
+
+Since annual members contribute significantly to ridership and have longer average trip durations, focus on promoting annual memberships. Consider offering loyalty rewards, exclusive benefits, or discounted renewal rates to attract and retain annual members.
