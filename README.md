@@ -3,6 +3,8 @@
 # Purpose of the Analysis:<br>
 The primary goal of this analysis is to establish a comprehensive reporting system for the New York Citi Bike program. The objective is to transform the existing data into meaningful insights through dashboards and reports. This initiative aims to address city officials' inquiries, publicize program performance, and facilitate data-driven improvements for the largest bike-sharing program in the United States.
 
+[Link to the Tableau Public Desktop](https://public.tableau.com/shared/T4FJQYZ4P?:display_count=n&:origin=viz_share_link)
+
 ![Trip Data Analysis](/Screenshots/Screenshot%202024-01-29%20102117.png)
 
 # Interesting Data Discoveries from the Trip Analysis Dashboard:
